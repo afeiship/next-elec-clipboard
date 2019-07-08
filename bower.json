@@ -1,0 +1,26 @@
+{
+  "name": "next-elec-clipboard",
+  "description": "Electron clipboard for next",
+  "main": "dist/next-elec-clipboard.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-elec-clipboard",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "build",
+    "gulpfile.js"
+  ]
+}
